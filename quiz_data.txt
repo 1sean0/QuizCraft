@@ -1,0 +1,1 @@
+QuizCraft that allows the user to take three different quizzes each containing ten questions.After completing the quiz, user is able to see their scores as well as any unanswered questions. QuizCraft also has a study guide feature where the user can store any information they need. Additionally, these study guides can be saved. 
